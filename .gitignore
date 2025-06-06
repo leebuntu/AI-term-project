@@ -1,5 +1,4 @@
 data/
 logs/
 .DS_Store
-vit_fruit_cls/
-vit_fruit_classification/
+output/
